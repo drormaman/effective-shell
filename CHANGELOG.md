@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.26.9](https://github.com/dwmkerr/effective-shell/compare/v0.26.8...v0.26.9) (2023-03-31)
+
+
+### Documentation
+
+* add nosarthur as a contributor for doc, and review ([#264](https://github.com/dwmkerr/effective-shell/issues/264)) ([1949d00](https://github.com/dwmkerr/effective-shell/commit/1949d0086e2557d406fb1dd58ec1ba988050c194))
+* add nosarthur as a contributor for review, and bug ([#258](https://github.com/dwmkerr/effective-shell/issues/258)) ([5be7805](https://github.com/dwmkerr/effective-shell/commit/5be780577525fc43f7f9030c4cdb8b72102393a9))
+
 ## [0.26.8](https://github.com/dwmkerr/effective-shell/compare/v0.26.7...v0.26.8) (2023-03-08)
 
 
